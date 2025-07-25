@@ -18,4 +18,6 @@ I decided to create this language to embed it in a plugin I'm writing for the [L
 
 ## Credits
 
-- I was first introduced to the creation (design, parsing and interpretation) of programming languages by the incredible book [Crafting Interpreters](https://craftinginterpreters.com/). Check it out if you're interested in this domain but have no idea how to get into it !
+- [Crafting Interpreters](https://craftinginterpreters.com/) : I was first introduced to the creation (design, parsing and interpretation) of programming languages by the incredible book Crafting Interpreters. Check it out if you're interested in this domain but have no idea how to get into it !
+
+- [Scrapelect](https://github.com/suaviloquence/scrapelect/) : While looking for similar projects, I found out about Scrapelect which is very similar to what I wanted to create, but it missed some features I needed, mainly the ability to format text to its final, user-readable state. Still, it represents valuable input, and I was particularly inspired by its simple syntax, something I noticed missing from the popular web scraping DSLs already available.
